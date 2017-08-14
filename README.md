@@ -10,6 +10,7 @@ Informatics which focuses on:
 - Software Engineering
 - Medical Informatics
 - Intelligent & Interactive Applications (Game Programming)
+
 Information Systems which focuses on:
 - Business Information Systems
 - Web and Mobile Development
