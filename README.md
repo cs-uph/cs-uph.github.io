@@ -1,7 +1,8 @@
-# cs-uph.githun.io
-Computer Science - Universitas Pelita Harapan
+### Unofficial 
 
-## About The Faculty
+# Universitas Pelita Harapan
+## Computer Science 
+
 The use of information and communication technology (ICT) in human life has become indispensable. Through an effective use of ICT, it is possible to streamline business processes to gain competitive advantage, integrate data and systems across multiple platform and networks, and even interact socially with others.
 
 UPH School of Information Science and Technology is built under strong and innovative curriculum which enables students to study the most recent developments in computer science. The faculty offers degrees in
