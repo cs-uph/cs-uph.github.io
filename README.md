@@ -1,7 +1,6 @@
 ### Unofficial 
-
-# Universitas Pelita Harapan
-## Computer Science 
+# Computer Science 
+## Universitas Pelita Harapan
 
 The use of information and communication technology (ICT) in human life has become indispensable. Through an effective use of ICT, it is possible to streamline business processes to gain competitive advantage, integrate data and systems across multiple platform and networks, and even interact socially with others.
 
